@@ -1,0 +1,9 @@
+{
+  "name": "geoip",
+  "version": "0.0.0",
+  "description": "geoip",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

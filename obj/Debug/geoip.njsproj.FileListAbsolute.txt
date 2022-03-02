@@ -1,0 +1,3 @@
+D:\VS2022\geo-location-checker\geoip\obj\Debug\geoip.njsproj.AssemblyReference.cache
+D:\VS2022\geo-location-checker\geoip\obj\Debug\geoip.njsproj.CoreCompileInputs.cache
+D:\VS2022\geo-location-checker\geoip\bin\Microsoft.NodejsTools.WebRole.dll
