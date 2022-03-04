@@ -1,4 +1,4 @@
-# ❗❕ PERSONAL ONLY ❕❗ 
+# ❗❕PERSONAL ONLY❕❗ 
 ## 🔘 IP CHECKER
     FOR QUANTUMULT X
 REWRITE FROM https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/IP_API.js
@@ -23,7 +23,7 @@ REWRITE FROM https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/IP_API.
 > 
 > FROM https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini
 
-# ⭕ THANK FOR THE AUTHORS OF ALL THE LINKS ABOVE ⭕
+## ⭕ THANK FOR THE AUTHORS OF ALL THE LINKS ABOVE ⭕
 
 
 
