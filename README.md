@@ -1,5 +1,5 @@
 # ❗❕ PERSONAL ONLY ❕❗ 
-## 🔘 IP CHECHER
+## 🔘 IP CHECKER
     FOR QUANTUMULT X
 REWRITE FROM https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/IP_API.js
  
