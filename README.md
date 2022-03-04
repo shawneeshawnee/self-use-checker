@@ -1,4 +1,4 @@
-# !!PERSONAL ONLY!! 
+# !! PERSONAL ONLY !! 
 ## IP CHECHER 
 REWRITE FROM https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/IP_API.js
  
