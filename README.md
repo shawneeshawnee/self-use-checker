@@ -24,6 +24,11 @@
 > 
 > FROM https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini
 
+## 🔘 TASK
+    CFW TASK THAT I HAVE REWRITTEN FROM
+> ※MAIN CFW CONFIG※
+> 
+> FROM https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js
 ## ⭕THANKS FOR ALL AUTHORS OF ALL  LINKS ABOVE⭕
 
 
