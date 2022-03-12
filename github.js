@@ -57,6 +57,10 @@ let repositories = [
         file_names: ["BaiduCloud.js"], //路径模板🌟
         url: "https://github.com/NobyDa/Script/tree/master/Surge/JS",
     },
+    {
+        name: "shawneeshawnee",
+        url: "https://github.com/shawneeshawnee/self-use/tree/main",
+    },
 ];
 
 const $ = API("github", false);
