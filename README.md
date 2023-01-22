@@ -1,4 +1,4 @@
-# ❗❕PERSONAL ONLY❕❗ 
+# ❗❕PERSONAL USE ONLY❕❗ 
 ## 🔘 IP CHECKER
     FOR QUANTUMULT X
 > REWRITE FROM  
