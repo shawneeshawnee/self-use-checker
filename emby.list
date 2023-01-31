@@ -3,7 +3,7 @@ DOMAIN-SUFFIX, ha.jmsooo.com
 DOMAIN-KEYWORD, jmsooo.com
 DOMAIN-SUFFIX, 8.8.8.8
 DOMAIN-SUFFIX, cf2.misakaf.org
-HOST, pub1.emby.wtf
-HOST, pub2.emby.wtf
-HOST, pub3.emby.wtf
-HOST, pub4.emby.wtf
+DOMAIN, pub1.emby.wtf
+DOMAIN, pub2.emby.wtf
+DOMAIN, pub3.emby.wtf
+DOMAIN, pub4.emby.wtf
