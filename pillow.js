@@ -1,6 +1,7 @@
-/*https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body pillow.js
+/*https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/shawneeshawnee/self-use/main/pillow.js
 hostname= api.revenuecat.com
 */
+
 
 var obj = {"request_date":"2020-02-15T07:09:49Z",
   "request_date_ms":"1581750589992",
