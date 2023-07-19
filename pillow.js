@@ -1,4 +1,4 @@
-/*https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/shawneeshawnee/self-use/main/pillow.js
+/*^https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/shawneeshawnee/self-use/main/pillow.js
 hostname= api.revenuecat.com
 */
 
