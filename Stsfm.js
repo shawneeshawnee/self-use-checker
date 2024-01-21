@@ -1,3 +1,14 @@
+/*
+stats.fm：https://apps.apple.com/app/id1526912392
+
+[rewrite_local]
+^https?:\/\/api\.stats\.fm\/api\/v1\/me$ url script-response-body https://raw.githubusercontent.com/Guding88/Script/main/statsfm.js
+
+[MITM]
+hostname = api.stats.fm
+
+*/
+
 var guding = JSON.parse($response.body);
 guding.item.isPro = true;
 guding.item.isPlus = true;
