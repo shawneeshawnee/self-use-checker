@@ -42,6 +42,16 @@ PROCESS-NAME,com.hbo.hbonow
 DOMAIN-KEYWORD,hbo
 DOMAIN-KEYWORD,hbomax
 USER-AGENT,HBOMAX*
+DOMAIN,wmff.warnermediacdn.com
+DOMAIN-SUFFIX,cinemax.com
+DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,h264.io
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,maxgo.com
+PROCESS-NAME,com.hbo.hbonow
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
