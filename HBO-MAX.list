@@ -1,3 +1,9 @@
+user-agent, HBOAsia*, Max
+host, 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, Max
+host-wildcard, hboasia*-i.akamaihd.net, Max
+host-suffix, s3-ap-southeast-1.amazonaws.com, Max
+host-suffix, max.com, Max
+host-suffix, discomax.com, Max
 DOMAIN-KEYWORD,max
 DOMAIN,wmff.warnermediacdn.com
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
